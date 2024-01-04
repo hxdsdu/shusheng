@@ -8,22 +8,22 @@
 
 书生包含大量的数据
 
-![image-20240104105725094]https://github.com/hxdsdu/shusheng/blob/main/image-20240104104701170.png
+![Image text](https://github.com/hxdsdu/shusheng/blob/main/images/image-20240104105725094.png)
 
 融合Hybird Zero技术，可大大加速训练
 
-![image-20240104110103474](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20240104110103474.png)
+![Image text](https://github.com/hxdsdu/shusheng/blob/main/images/image-20240104110103474.png)
 
 开发XTuner微调框架，适配HuggingFace等主流开源模型库，并自带加速库，适配多种硬件
 
-![image-20240104110452030](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20240104110452030.png)
+![Image text](https://github.com/hxdsdu/shusheng/blob/main/images/image-20240104110452030.png)
 
 一个规范标准的大模型评测体系可以更好的帮助我们对大模型的能力进行全面的测评
 
-![image-20240104110740818](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20240104110740818.png)
+![Image text](https://github.com/hxdsdu/shusheng/blob/main/images/image-20240104110740818.png)
 
-![image-20240104110843132](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20240104110843132.png)
+![Image text](https://github.com/hxdsdu/shusheng/blob/main/images/image-20240104110843132.png)
 
 模型部署也融合了一些主流的推理优化技术，本人对这块比较感兴趣，希望可以深入研究一下
 
-![image-20240104111457186](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20240104111457186.png)
+![Image text](https://github.com/hxdsdu/shusheng/blob/main/images/image-20240104111457186.png)
