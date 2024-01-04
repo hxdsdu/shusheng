@@ -8,7 +8,7 @@
 
 书生包含大量的数据
 
-![image-20240104105725094](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20240104105725094.png)
+![image-20240104105725094]https://github.com/hxdsdu/shusheng/blob/main/image-20240104104701170.png
 
 融合Hybird Zero技术，可大大加速训练
 
