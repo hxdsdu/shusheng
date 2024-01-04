@@ -4,7 +4,7 @@
 
 上海人工智能实验室目前开放了大模型的全链条开源体系，涵盖数据集、预训练、微调、部署、评测、应用等模块，对从事大模型相关工作、研究的同学比较友好，消费级的显卡也可以训练大模型
 
-(https://github.com/hxdsdu/shusheng/blob/main/image-20240104104701170.png)
+![Image text](https://github.com/hxdsdu/shusheng/blob/main/images/image-20240104104701170.png)
 
 书生包含大量的数据
 
